@@ -1,7 +1,7 @@
 # ESP32 Guitar Tuner
-#Joshua Weisner and Brad Willard
-#Spring 2025
-#Automatic Guitar Tuner
+Joshua Weisner and Brad Willard Spring 2025
+Automatic Guitar Tuner
+
 
 This project implements a guitar tuner using an ESP32 microcontroller with an INMP441 I2S microphone and automatic string tuning capability using an N30 motor. The tuner can detect the frequency of a plucked guitar string, provide tuning guidance, and automatically adjust the tuning.
 
